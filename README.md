@@ -10,7 +10,8 @@
 >phantomjs phantom-jsproxy port
 
 >####Usage:
->localhost<port>/?url=your-url-here
+>localhost\<port\>/?url=your-url-here
 
 >####Example:
 >localhost:99/?url=http://www.google.com/
+
